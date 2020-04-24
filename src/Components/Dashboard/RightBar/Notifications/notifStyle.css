@@ -1,0 +1,24 @@
+.notif {
+    margin-top: 30px;
+    border: "1px white solid";
+    background-color: "white" !important;
+    width: "250px";
+    border-radius: "20px";
+}
+
+.notif ul {
+    padding-left: 10px;
+}
+
+
+/* 
+.rightUl li img {
+    width: 24px;
+    margin-right: 10px;
+}
+
+.rightUl {
+    padding-left: 20px !important;
+    position: absolute !important;
+    margin-left: 5%;
+} */

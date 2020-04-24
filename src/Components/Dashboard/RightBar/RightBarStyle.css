@@ -1,0 +1,27 @@
+.rightUl li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.rightUl li img {
+  width: 24px;
+  margin-right: 10px;
+}
+
+.rightUl {
+  padding-left: 20px !important;
+  position: absolute !important;
+  margin-left: 5%;
+}
+
+.twtTop {
+  position: fixed;
+  top: 0px;
+  right: 10px;
+}
+
+@media (max-width: 1024px) {
+  .rightUl {
+    display: none !important;
+  }
+}

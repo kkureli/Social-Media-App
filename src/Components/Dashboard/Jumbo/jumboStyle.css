@@ -1,0 +1,6 @@
+@media only screen and (max-width: 768px) {
+  .jumbo img {
+    width: 90% !important;
+    height: 90%;
+  }
+}

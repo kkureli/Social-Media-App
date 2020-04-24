@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+  .centerIt {
+    margin-left: 0;
+    padding: 0;
+    padding-left: 0;
+  }
+}

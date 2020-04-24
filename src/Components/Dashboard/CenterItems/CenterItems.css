@@ -1,0 +1,19 @@
+.CenterItems {
+  text-align: center;
+  padding-right: 0px;
+  margin-right: 25px;
+  margin-left: -20px;
+  padding-left: 0px;
+}
+
+@media (max-width: 1024px) {
+  .CenterItems {
+    /* text-align: none;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px; */
+    /* width: 300px; */
+    margin: 0;
+  }
+}
